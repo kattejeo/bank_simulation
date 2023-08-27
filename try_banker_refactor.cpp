@@ -551,7 +551,7 @@ int main()
     cin >> respond;
 
     if(tolower(respond[0]) == 'y'){
-        cout << endl << "Report file created" << endl << endl;
+        cout << endl << "Report file created!" << endl << endl;
         cl.fileReport();
     }
 
