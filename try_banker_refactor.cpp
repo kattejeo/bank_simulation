@@ -235,7 +235,7 @@ public:
 
     void startSimulation()
     {
-        cout << "Simulation started" << endl;
+        cout << "*Simulation started*" << endl;
     }
 
     void buildList()
